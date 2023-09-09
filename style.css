@@ -257,7 +257,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   position: absolute;
   top: 0;
   left: -220px;
-  padding-top: 40px;
+  padding-top: 50px;
   width: 220px;
   max-height: 100%;
   overflow-x: hidden;
